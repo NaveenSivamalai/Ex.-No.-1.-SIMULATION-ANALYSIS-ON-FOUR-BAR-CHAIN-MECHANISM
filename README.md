@@ -53,10 +53,12 @@
 
 
 ## Output:
+![241357519-404493f1-9e45-47ff-97cf-4d21c88fcbdc](https://github.com/NaveenSivamalai/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/123792574/bbf6b1ad-1955-43be-8c1a-ee4306cde192)
 
+![241357543-f13833d3-7391-4bea-aaa4-fb7a8e447a3a](https://github.com/NaveenSivamalai/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/123792574/832e80ba-8058-41ea-a154-80beef2b9785)
 
-### Name:
-### Register Number: 
+### Name: NAVEEN S
+### Register Number: 212222110030
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
